@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\kaique.smatos\\Documents\\Visual Studio 2022\\EmpresaCLivre\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C4CF5DAC-39E4-4ADD-B09F-24D97B7E9A60}|Calculadora\\Calculadora.csproj|c:\\users\\kaique.smatos\\documents\\visual studio 2022\\empresaclivre\\calculadora\\frmcalculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C4CF5DAC-39E4-4ADD-B09F-24D97B7E9A60}|Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\frmcalculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84904484-E4B3-4C30-A260-CD7A6A80FB73}|GerenciarPessoas\\GerenciarPessoas.csproj|C:\\Users\\kaique.smatos\\Documents\\Visual Studio 2022\\EmpresaCLivre\\gerenciarpessoas\\frmcadpessoas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84904484-E4B3-4C30-A260-CD7A6A80FB73}|GerenciarPessoas\\GerenciarPessoas.csproj|solutionrelative:gerenciarpessoas\\frmcadpessoas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{84904484-E4B3-4C30-A260-CD7A6A80FB73}|GerenciarPessoas\\GerenciarPessoas.csproj|c:\\users\\kaique.smatos\\documents\\visual studio 2022\\empresaclivre\\gerenciarpessoas\\frmbuscapessoas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84904484-E4B3-4C30-A260-CD7A6A80FB73}|GerenciarPessoas\\GerenciarPessoas.csproj|solutionrelative:gerenciarpessoas\\frmbuscapessoas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{84904484-E4B3-4C30-A260-CD7A6A80FB73}|GerenciarPessoas\\GerenciarPessoas.csproj|C:\\Users\\kaique.smatos\\Documents\\Visual Studio 2022\\EmpresaCLivre\\gerenciarpessoas\\frmcadpessoas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84904484-E4B3-4C30-A260-CD7A6A80FB73}|GerenciarPessoas\\GerenciarPessoas.csproj|solutionrelative:gerenciarpessoas\\frmcadpessoas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84904484-E4B3-4C30-A260-CD7A6A80FB73}|GerenciarPessoas\\GerenciarPessoas.csproj|C:\\Users\\kaique.smatos\\Documents\\Visual Studio 2022\\EmpresaCLivre\\gerenciarpessoas\\frmcadpessoas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{84904484-E4B3-4C30-A260-CD7A6A80FB73}|GerenciarPessoas\\GerenciarPessoas.csproj|solutionrelative:gerenciarpessoas\\frmcadpessoas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{84904484-E4B3-4C30-A260-CD7A6A80FB73}|GerenciarPessoas\\GerenciarPessoas.csproj|C:\\Users\\kaique.smatos\\Documents\\Visual Studio 2022\\EmpresaCLivre\\gerenciarpessoas\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,7 +42,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "FrmBuscaPessoas.cs [Design]",
               "DocumentMoniker": "C:\\Users\\kaique.smatos\\Documents\\Visual Studio 2022\\EmpresaCLivre\\GerenciarPessoas\\FrmBuscaPessoas.cs",
               "RelativeDocumentMoniker": "GerenciarPessoas\\FrmBuscaPessoas.cs",
@@ -52,6 +56,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "frmCalculadora.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kaique.smatos\\Documents\\Visual Studio 2022\\EmpresaCLivre\\Calculadora\\frmCalculadora.cs",
+              "RelativeDocumentMoniker": "Calculadora\\frmCalculadora.cs",
+              "ToolTip": "C:\\Users\\kaique.smatos\\Documents\\Visual Studio 2022\\EmpresaCLivre\\Calculadora\\frmCalculadora.cs [Design]",
+              "RelativeToolTip": "Calculadora\\frmCalculadora.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T17:57:16.295Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "FrmBuscaPessoas.cs",
               "DocumentMoniker": "C:\\Users\\kaique.smatos\\Documents\\Visual Studio 2022\\EmpresaCLivre\\GerenciarPessoas\\FrmBuscaPessoas.cs",
               "RelativeDocumentMoniker": "GerenciarPessoas\\FrmBuscaPessoas.cs",
@@ -64,7 +80,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "FrmCadPessoas.Designer.cs",
               "DocumentMoniker": "C:\\Users\\kaique.smatos\\Documents\\Visual Studio 2022\\EmpresaCLivre\\GerenciarPessoas\\FrmCadPessoas.Designer.cs",
               "RelativeDocumentMoniker": "GerenciarPessoas\\FrmCadPessoas.Designer.cs",
@@ -72,11 +88,12 @@
               "RelativeToolTip": "GerenciarPessoas\\FrmCadPessoas.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T18:07:07.815Z"
+              "WhenOpened": "2025-06-24T18:07:07.815Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "FrmCadPessoas.cs",
               "DocumentMoniker": "C:\\Users\\kaique.smatos\\Documents\\Visual Studio 2022\\EmpresaCLivre\\GerenciarPessoas\\FrmCadPessoas.cs",
               "RelativeDocumentMoniker": "GerenciarPessoas\\FrmCadPessoas.cs",
@@ -84,11 +101,12 @@
               "RelativeToolTip": "GerenciarPessoas\\FrmCadPessoas.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T17:20:55.076Z"
+              "WhenOpened": "2025-06-24T17:20:55.076Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Pessoa.cs",
               "DocumentMoniker": "C:\\Users\\kaique.smatos\\Documents\\Visual Studio 2022\\EmpresaCLivre\\GerenciarPessoas\\Pessoa.cs",
               "RelativeDocumentMoniker": "GerenciarPessoas\\Pessoa.cs",
@@ -100,14 +118,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "FrmCadPessoas.cs [Design]",
               "DocumentMoniker": "C:\\Users\\kaique.smatos\\Documents\\Visual Studio 2022\\EmpresaCLivre\\GerenciarPessoas\\FrmCadPessoas.cs",
               "RelativeDocumentMoniker": "GerenciarPessoas\\FrmCadPessoas.cs",
               "ToolTip": "C:\\Users\\kaique.smatos\\Documents\\Visual Studio 2022\\EmpresaCLivre\\GerenciarPessoas\\FrmCadPessoas.cs [Design]",
               "RelativeToolTip": "GerenciarPessoas\\FrmCadPessoas.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T17:11:14.25Z"
+              "WhenOpened": "2025-06-24T17:11:14.25Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

@@ -38,10 +38,11 @@
             this.lblResposta = new System.Windows.Forms.Label();
             this.btnLimpar = new System.Windows.Forms.Button();
             this.gpbOperacoes = new System.Windows.Forms.GroupBox();
-            this.rdbSoma = new System.Windows.Forms.RadioButton();
-            this.rdbSubtracao = new System.Windows.Forms.RadioButton();
-            this.rdbMultiplicacao = new System.Windows.Forms.RadioButton();
             this.rdbDivisao = new System.Windows.Forms.RadioButton();
+            this.rdbMultiplicacao = new System.Windows.Forms.RadioButton();
+            this.rdbSubtracao = new System.Windows.Forms.RadioButton();
+            this.rdbSoma = new System.Windows.Forms.RadioButton();
+            this.button1 = new System.Windows.Forms.Button();
             this.gpbOperacoes.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -117,7 +118,7 @@
             // btnLimpar
             // 
             this.btnLimpar.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnLimpar.Location = new System.Drawing.Point(537, 128);
+            this.btnLimpar.Location = new System.Drawing.Point(537, 109);
             this.btnLimpar.Name = "btnLimpar";
             this.btnLimpar.Size = new System.Drawing.Size(176, 47);
             this.btnLimpar.TabIndex = 7;
@@ -141,27 +142,16 @@
             this.gpbOperacoes.Text = "Operações";
             this.gpbOperacoes.Enter += new System.EventHandler(this.gpbOperacoes_Enter);
             // 
-            // rdbSoma
+            // rdbDivisao
             // 
-            this.rdbSoma.AutoSize = true;
-            this.rdbSoma.Location = new System.Drawing.Point(18, 41);
-            this.rdbSoma.Name = "rdbSoma";
-            this.rdbSoma.Size = new System.Drawing.Size(73, 24);
-            this.rdbSoma.TabIndex = 0;
-            this.rdbSoma.TabStop = true;
-            this.rdbSoma.Text = "Soma";
-            this.rdbSoma.UseVisualStyleBackColor = true;
-            // 
-            // rdbSubtracao
-            // 
-            this.rdbSubtracao.AutoSize = true;
-            this.rdbSubtracao.Location = new System.Drawing.Point(18, 96);
-            this.rdbSubtracao.Name = "rdbSubtracao";
-            this.rdbSubtracao.Size = new System.Drawing.Size(110, 24);
-            this.rdbSubtracao.TabIndex = 1;
-            this.rdbSubtracao.TabStop = true;
-            this.rdbSubtracao.Text = "Subtração";
-            this.rdbSubtracao.UseVisualStyleBackColor = true;
+            this.rdbDivisao.AutoSize = true;
+            this.rdbDivisao.Location = new System.Drawing.Point(18, 199);
+            this.rdbDivisao.Name = "rdbDivisao";
+            this.rdbDivisao.Size = new System.Drawing.Size(85, 24);
+            this.rdbDivisao.TabIndex = 3;
+            this.rdbDivisao.TabStop = true;
+            this.rdbDivisao.Text = "Divisão";
+            this.rdbDivisao.UseVisualStyleBackColor = true;
             // 
             // rdbMultiplicacao
             // 
@@ -174,22 +164,45 @@
             this.rdbMultiplicacao.Text = "Multiplicação";
             this.rdbMultiplicacao.UseVisualStyleBackColor = true;
             // 
-            // rdbDivisao
+            // rdbSubtracao
             // 
-            this.rdbDivisao.AutoSize = true;
-            this.rdbDivisao.Location = new System.Drawing.Point(18, 199);
-            this.rdbDivisao.Name = "rdbDivisao";
-            this.rdbDivisao.Size = new System.Drawing.Size(85, 24);
-            this.rdbDivisao.TabIndex = 3;
-            this.rdbDivisao.TabStop = true;
-            this.rdbDivisao.Text = "Divisão";
-            this.rdbDivisao.UseVisualStyleBackColor = true;
+            this.rdbSubtracao.AutoSize = true;
+            this.rdbSubtracao.Location = new System.Drawing.Point(18, 96);
+            this.rdbSubtracao.Name = "rdbSubtracao";
+            this.rdbSubtracao.Size = new System.Drawing.Size(110, 24);
+            this.rdbSubtracao.TabIndex = 1;
+            this.rdbSubtracao.TabStop = true;
+            this.rdbSubtracao.Text = "Subtração";
+            this.rdbSubtracao.UseVisualStyleBackColor = true;
+            // 
+            // rdbSoma
+            // 
+            this.rdbSoma.AutoSize = true;
+            this.rdbSoma.Location = new System.Drawing.Point(18, 41);
+            this.rdbSoma.Name = "rdbSoma";
+            this.rdbSoma.Size = new System.Drawing.Size(73, 24);
+            this.rdbSoma.TabIndex = 0;
+            this.rdbSoma.TabStop = true;
+            this.rdbSoma.Text = "Soma";
+            this.rdbSoma.UseVisualStyleBackColor = true;
+            // 
+            // button1
+            // 
+            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button1.Location = new System.Drawing.Point(537, 179);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(176, 47);
+            this.button1.TabIndex = 9;
+            this.button1.Text = "Voltar";
+            this.button1.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+            this.button1.UseVisualStyleBackColor = true;
             // 
             // frmCalculadora
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(725, 362);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.gpbOperacoes);
             this.Controls.Add(this.btnLimpar);
             this.Controls.Add(this.lblResposta);
@@ -226,5 +239,6 @@
         private System.Windows.Forms.RadioButton rdbDivisao;
         private System.Windows.Forms.RadioButton rdbMultiplicacao;
         private System.Windows.Forms.RadioButton rdbSubtracao;
+        private System.Windows.Forms.Button button1;
     }
 }
