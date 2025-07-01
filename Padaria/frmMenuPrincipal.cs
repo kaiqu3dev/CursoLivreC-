@@ -24,6 +24,7 @@ namespace Padaria
         public frmMenuPrincipal()
         {
             InitializeComponent();
+            
         }
 
         private void btnVoltar_Click(object sender, EventArgs e)
@@ -40,6 +41,13 @@ namespace Padaria
             RemoveMenu(hMenu, MenuCount, MF_BYCOMMAND);
 
 
+        }
+
+        private void btnFuncionarios_Click(object sender, EventArgs e)
+        {
+            FrmGerenciaFuncionarios abrir = new FrmGerenciaFuncionarios();
+            abrir.Show();
+            this.Hide();
         }
     }
 }

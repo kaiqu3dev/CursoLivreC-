@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\kaique.smatos\\Documents\\Visual Studio 2022\\EmpresaCLivre\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7FD93C48-7AC9-4949-B498-269089D35BF7}|Heranca\\Heranca.csproj|c:\\users\\kaique.smatos\\documents\\visual studio 2022\\empresaclivre\\heranca\\frmconta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FD93C48-7AC9-4949-B498-269089D35BF7}|Heranca\\Heranca.csproj|solutionrelative:heranca\\frmconta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2A7BDC1-4212-485C-B057-F6E86FC37A27}|Padaria\\Padaria.csproj|c:\\users\\kaique.smatos\\documents\\visual studio 2022\\empresaclivre\\padaria\\frmgerenciafuncionarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2A7BDC1-4212-485C-B057-F6E86FC37A27}|Padaria\\Padaria.csproj|solutionrelative:padaria\\frmgerenciafuncionarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FD93C48-7AC9-4949-B498-269089D35BF7}|Heranca\\Heranca.csproj|c:\\users\\kaique.smatos\\documents\\visual studio 2022\\empresaclivre\\heranca\\poupanca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FD93C48-7AC9-4949-B498-269089D35BF7}|Heranca\\Heranca.csproj|solutionrelative:heranca\\poupanca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2A7BDC1-4212-485C-B057-F6E86FC37A27}|Padaria\\Padaria.csproj|c:\\users\\kaique.smatos\\documents\\visual studio 2022\\empresaclivre\\padaria\\frmgerenciafuncionarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2A7BDC1-4212-485C-B057-F6E86FC37A27}|Padaria\\Padaria.csproj|solutionrelative:padaria\\frmgerenciafuncionarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FD93C48-7AC9-4949-B498-269089D35BF7}|Heranca\\Heranca.csproj|c:\\users\\kaique.smatos\\documents\\visual studio 2022\\empresaclivre\\heranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FD93C48-7AC9-4949-B498-269089D35BF7}|Heranca\\Heranca.csproj|solutionrelative:heranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2A7BDC1-4212-485C-B057-F6E86FC37A27}|Padaria\\Padaria.csproj|c:\\users\\kaique.smatos\\documents\\visual studio 2022\\empresaclivre\\padaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2A7BDC1-4212-485C-B057-F6E86FC37A27}|Padaria\\Padaria.csproj|solutionrelative:padaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FD93C48-7AC9-4949-B498-269089D35BF7}|Heranca\\Heranca.csproj|c:\\users\\kaique.smatos\\documents\\visual studio 2022\\empresaclivre\\heranca\\frmconta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7FD93C48-7AC9-4949-B498-269089D35BF7}|Heranca\\Heranca.csproj|solutionrelative:heranca\\frmconta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2A7BDC1-4212-485C-B057-F6E86FC37A27}|Padaria\\Padaria.csproj|c:\\users\\kaique.smatos\\documents\\visual studio 2022\\empresaclivre\\padaria\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2A7BDC1-4212-485C-B057-F6E86FC37A27}|Padaria\\Padaria.csproj|solutionrelative:padaria\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2A7BDC1-4212-485C-B057-F6E86FC37A27}|Padaria\\Padaria.csproj|c:\\users\\kaique.smatos\\documents\\visual studio 2022\\empresaclivre\\padaria\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2A7BDC1-4212-485C-B057-F6E86FC37A27}|Padaria\\Padaria.csproj|solutionrelative:padaria\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +30,70 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "frmConta.cs",
-              "DocumentMoniker": "C:\\Users\\kaique.smatos\\Documents\\Visual Studio 2022\\EmpresaCLivre\\Heranca\\frmConta.cs",
-              "RelativeDocumentMoniker": "Heranca\\frmConta.cs",
-              "ToolTip": "C:\\Users\\kaique.smatos\\Documents\\Visual Studio 2022\\EmpresaCLivre\\Heranca\\frmConta.cs*",
-              "RelativeToolTip": "Heranca\\frmConta.cs*",
-              "ViewState": "AgIAACwAAAAAAAAAAAAAAD4AAAA+AAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "frmMenuPrincipal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kaique.smatos\\Documents\\Visual Studio 2022\\EmpresaCLivre\\Padaria\\frmMenuPrincipal.cs",
+              "RelativeDocumentMoniker": "Padaria\\frmMenuPrincipal.cs",
+              "ToolTip": "C:\\Users\\kaique.smatos\\Documents\\Visual Studio 2022\\EmpresaCLivre\\Padaria\\frmMenuPrincipal.cs [Design]*",
+              "RelativeToolTip": "Padaria\\frmMenuPrincipal.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T19:48:45.788Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-01T18:21:35.645Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Poupanca.cs",
-              "DocumentMoniker": "C:\\Users\\kaique.smatos\\Documents\\Visual Studio 2022\\EmpresaCLivre\\Heranca\\Poupanca.cs",
-              "RelativeDocumentMoniker": "Heranca\\Poupanca.cs",
-              "ToolTip": "C:\\Users\\kaique.smatos\\Documents\\Visual Studio 2022\\EmpresaCLivre\\Heranca\\Poupanca.cs",
-              "RelativeToolTip": "Heranca\\Poupanca.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAzAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "FrmGerenciaFuncionarios.cs",
+              "DocumentMoniker": "C:\\Users\\kaique.smatos\\Documents\\Visual Studio 2022\\EmpresaCLivre\\Padaria\\FrmGerenciaFuncionarios.cs",
+              "RelativeDocumentMoniker": "Padaria\\FrmGerenciaFuncionarios.cs",
+              "ToolTip": "C:\\Users\\kaique.smatos\\Documents\\Visual Studio 2022\\EmpresaCLivre\\Padaria\\FrmGerenciaFuncionarios.cs*",
+              "RelativeToolTip": "Padaria\\FrmGerenciaFuncionarios.cs*",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAQwIgAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T19:12:50.751Z",
+              "WhenOpened": "2025-07-01T18:19:53.112Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "frmConta.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\kaique.smatos\\Documents\\Visual Studio 2022\\EmpresaCLivre\\Heranca\\frmConta.cs",
-              "RelativeDocumentMoniker": "Heranca\\frmConta.cs",
-              "ToolTip": "C:\\Users\\kaique.smatos\\Documents\\Visual Studio 2022\\EmpresaCLivre\\Heranca\\frmConta.cs [Design]*",
-              "RelativeToolTip": "Heranca\\frmConta.cs [Design]*",
+              "Title": "frmMenuPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\kaique.smatos\\Documents\\Visual Studio 2022\\EmpresaCLivre\\Padaria\\frmMenuPrincipal.cs",
+              "RelativeDocumentMoniker": "Padaria\\frmMenuPrincipal.cs",
+              "ToolTip": "C:\\Users\\kaique.smatos\\Documents\\Visual Studio 2022\\EmpresaCLivre\\Padaria\\frmMenuPrincipal.cs*",
+              "RelativeToolTip": "Padaria\\frmMenuPrincipal.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T19:07:58.531Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-07-01T18:22:27.615Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\kaique.smatos\\Documents\\Visual Studio 2022\\EmpresaCLivre\\Heranca\\Program.cs",
-              "RelativeDocumentMoniker": "Heranca\\Program.cs",
-              "ToolTip": "C:\\Users\\kaique.smatos\\Documents\\Visual Studio 2022\\EmpresaCLivre\\Heranca\\Program.cs",
-              "RelativeToolTip": "Heranca\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\kaique.smatos\\Documents\\Visual Studio 2022\\EmpresaCLivre\\Padaria\\Program.cs",
+              "RelativeDocumentMoniker": "Padaria\\Program.cs",
+              "ToolTip": "C:\\Users\\kaique.smatos\\Documents\\Visual Studio 2022\\EmpresaCLivre\\Padaria\\Program.cs",
+              "RelativeToolTip": "Padaria\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T19:06:40.279Z",
+              "WhenOpened": "2025-07-01T17:42:51.169Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmGerenciaFuncionarios.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kaique.smatos\\Documents\\Visual Studio 2022\\EmpresaCLivre\\Padaria\\FrmGerenciaFuncionarios.cs",
+              "RelativeDocumentMoniker": "Padaria\\FrmGerenciaFuncionarios.cs",
+              "ToolTip": "C:\\Users\\kaique.smatos\\Documents\\Visual Studio 2022\\EmpresaCLivre\\Padaria\\FrmGerenciaFuncionarios.cs [Design]*",
+              "RelativeToolTip": "Padaria\\FrmGerenciaFuncionarios.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T17:21:55.925Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

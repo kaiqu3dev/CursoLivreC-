@@ -1,87 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\kaique.smatos\\Documents\\Visual Studio 2022\\EmpresaCLivre\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{7FD93C48-7AC9-4949-B498-269089D35BF7}|Heranca\\Heranca.csproj|c:\\users\\kaique.smatos\\documents\\visual studio 2022\\empresaclivre\\heranca\\frmconta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FD93C48-7AC9-4949-B498-269089D35BF7}|Heranca\\Heranca.csproj|solutionrelative:heranca\\frmconta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FD93C48-7AC9-4949-B498-269089D35BF7}|Heranca\\Heranca.csproj|c:\\users\\kaique.smatos\\documents\\visual studio 2022\\empresaclivre\\heranca\\poupanca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FD93C48-7AC9-4949-B498-269089D35BF7}|Heranca\\Heranca.csproj|solutionrelative:heranca\\poupanca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FD93C48-7AC9-4949-B498-269089D35BF7}|Heranca\\Heranca.csproj|c:\\users\\kaique.smatos\\documents\\visual studio 2022\\empresaclivre\\heranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FD93C48-7AC9-4949-B498-269089D35BF7}|Heranca\\Heranca.csproj|solutionrelative:heranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FD93C48-7AC9-4949-B498-269089D35BF7}|Heranca\\Heranca.csproj|c:\\users\\kaique.smatos\\documents\\visual studio 2022\\empresaclivre\\heranca\\frmconta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7FD93C48-7AC9-4949-B498-269089D35BF7}|Heranca\\Heranca.csproj|solutionrelative:heranca\\frmconta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedHeight": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "frmConta.cs",
-              "DocumentMoniker": "C:\\Users\\kaique.smatos\\Documents\\Visual Studio 2022\\EmpresaCLivre\\Heranca\\frmConta.cs",
-              "RelativeDocumentMoniker": "Heranca\\frmConta.cs",
-              "ToolTip": "C:\\Users\\kaique.smatos\\Documents\\Visual Studio 2022\\EmpresaCLivre\\Heranca\\frmConta.cs",
-              "RelativeToolTip": "Heranca\\frmConta.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAQwD4AAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T19:48:45.788Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Poupanca.cs",
-              "DocumentMoniker": "C:\\Users\\kaique.smatos\\Documents\\Visual Studio 2022\\EmpresaCLivre\\Heranca\\Poupanca.cs",
-              "RelativeDocumentMoniker": "Heranca\\Poupanca.cs",
-              "ToolTip": "C:\\Users\\kaique.smatos\\Documents\\Visual Studio 2022\\EmpresaCLivre\\Heranca\\Poupanca.cs",
-              "RelativeToolTip": "Heranca\\Poupanca.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T19:12:50.751Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "frmConta.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\kaique.smatos\\Documents\\Visual Studio 2022\\EmpresaCLivre\\Heranca\\frmConta.cs",
-              "RelativeDocumentMoniker": "Heranca\\frmConta.cs",
-              "ToolTip": "C:\\Users\\kaique.smatos\\Documents\\Visual Studio 2022\\EmpresaCLivre\\Heranca\\frmConta.cs [Design]",
-              "RelativeToolTip": "Heranca\\frmConta.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T19:07:58.531Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\kaique.smatos\\Documents\\Visual Studio 2022\\EmpresaCLivre\\Heranca\\Program.cs",
-              "RelativeDocumentMoniker": "Heranca\\Program.cs",
-              "ToolTip": "C:\\Users\\kaique.smatos\\Documents\\Visual Studio 2022\\EmpresaCLivre\\Heranca\\Program.cs",
-              "RelativeToolTip": "Heranca\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T19:06:40.279Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
